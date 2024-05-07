@@ -1,0 +1,31 @@
+# Diretórios de saída do .NET Core
+bin/
+obj/
+
+# Diretório de cache do Visual Studio Code
+.vscode/
+
+# Arquivos de configuração do Visual Studio Code
+*.code-workspace
+
+# Arquivos de configuração do usuário
+*.user
+*.suo
+
+# Arquivos temporários do sistema operacional
+*.tmp
+*.swp
+*.swn
+*.bak
+*.log
+
+# Arquivos de backup do Visual Studio
+*.bak
+
+# Arquivos de pacotes do NuGet
+.nuget/
+*.nupkg
+*.snupkg
+
+# Configurações do sistema
+Directory.Build.*
