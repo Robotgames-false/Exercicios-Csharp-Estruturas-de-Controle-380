@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj": {}
+    "C:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj": {
+    "C:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj",
+        "projectUniqueName": "C:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "c:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj",
+        "projectPath": "C:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj",
         "packagesPath": "C:\\Users\\Elisio Massaki\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\obj\\",
+        "outputPath": "C:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elisio Massaki\\AppData\\Roaming\\NuGet\\NuGet.Config"

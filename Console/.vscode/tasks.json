@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build"
+		},
+		{
+			"type": "dotnet",
+			"task": "watch Console",
+			"file": "C:\\Users\\Elisio Massaki\\Documents\\GitHub\\Exercicios-Csharp-Estruturas-de-Controle\\Console\\Console\\Console.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch Console"
+		}
+	]
+}
