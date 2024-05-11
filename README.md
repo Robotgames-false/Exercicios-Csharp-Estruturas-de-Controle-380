@@ -9,6 +9,9 @@ Este repositório contém exercícios e exemplos em C# que exploram diversas est
 - **Instruções Switch-Case**: Exercícios que utilizam `switch-case` para tratar múltiplos cenários e caminhos de execução.
 - **Laços Do-While**: Exercícios com `do-while`, úteis para loops que precisam ser executados pelo menos uma vez.
 
+## Minha Jornada
+- [Calculadora de Média de Notas](https://github.com/Robotgames-false/Exercicios-Csharp-Estruturas-de-Controle-380/blob/main/mediaNote.md)
+
 ## Como Usar
 
 1. Clone ou faça o download deste repositório.
