@@ -10,6 +10,7 @@ Este repositório contém exercícios e exemplos em C# que exploram diversas est
 - **Laços Do-While**: Exercícios com `do-while`, úteis para loops que precisam ser executados pelo menos uma vez.
 
 ## Minha Jornada
+
 - [Calculadora de Média de Notas](https://github.com/Robotgames-false/Exercicios-Csharp-Estruturas-de-Controle-380/blob/main/mediaNote.md)
 - [Pilares da Programação Orientada a Objetos (POO)](https://github.com/Robotgames-false/Exercicios-Csharp-Estruturas-de-Controle-380/blob/main/Pilares%20da%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO).md)
 
